@@ -1,8 +1,8 @@
-import Image from 'next/image'
+// import Image from 'next/image'
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <main className='bg-yellow-500 p-10'>
         <h1>Hello React</h1> 
     </main>
   )
